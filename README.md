@@ -9,3 +9,6 @@ I will update this repository as I complete the exercises.
 
 ## 1. SQL()
 [Web Link](https://www.w3resource.com/sql-exercises/)
+
+Topic Name   | Exercises | Solutions |
+| :-------:   | :----:    | :----: |
