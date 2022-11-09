@@ -12,3 +12,4 @@ I will update this repository as I complete the exercises.
 
 Topic Name   | Exercises | Solutions |
 | :-------:   | :----:    | :----: |
+| Retrieve data from tables   |  [Here](https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php)   | [Here](https://github.com/David8523/W3resource/blob/main/SQL/SQL%20Exercises%2C%20Practice%2C%20Solution%20-%20Retrieve%20data%20from%20tables.md) |
