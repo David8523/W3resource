@@ -20,3 +20,4 @@ Topic Name   | Exercises | Solutions |
 | SQL Aggregate Functions   |  [Here](https://www.w3resource.com/sql-exercises/sql-aggregate-functions.php)   | [Here](https://github.com/David8523/W3resource/blob/main/SQL/Functions%20and%20Group%20by.md) |
 | SQL Formatting query output   |  [Here](https://www.w3resource.com/sql-exercises/sql-fromatting-output-exercises.php)   | [Here](https://github.com/David8523/W3resource/blob/main/SQL/Formatting%20Output.md) |
 | SQL Quering on Multiple Tables   |  [Here](https://www.w3resource.com/sql-exercises/sql-exercises-quering-on-multiple-table.php)   | [Here](https://github.com/David8523/W3resource/blob/main/SQL/SQL%20Quering%20on%20Multiple%20Tables.md) |
+| FILTERING and SORTING on HR Database   |  [Here](https://www.w3resource.com/sql-exercises/sorting-and-filtering-hr/index.php)   | [Here](https://github.com/David8523/W3resource/blob/main/SQL/HR%20Database%20-%20SORT%20FILTER.md) |
